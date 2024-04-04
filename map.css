@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+#map {
+  height: 500px;
+  width: 600px;
+}
+
+body {
+  background-color: #f2f2f2;
+  font-family: "Cairo", sans-serif;
+}
+
+section {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.header {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.text {
+  display: flex;
+  align-items: end;
+  flex-direction: column;
+  height: 500px;
+  width: 400px;
+}
+
+.text p {
+  padding: 0;
+  margin: 0;
+}
+
+.text input {
+  border: none;
+  padding: 15px;
+  width: 350px;
+  border-radius: 20px;
+  margin-top: 10px;
+  direction: rtl;
+}
+
+.text input :focus,
+input:valid {
+  outline: none;
+  box-shadow: 0 0 5px 0 rgb(0, 0, 0, 0.1);
+}
+
+.text button {
+  padding: 15px;
+  width: 350px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
