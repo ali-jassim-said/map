@@ -6,7 +6,7 @@
 
 #map {
   height: 500px;
-  width: 600px;
+  width: 900px;
 }
 
 body {
@@ -17,7 +17,6 @@ body {
 section {
   max-width: 1200px;
   margin: auto;
-  margin-top: 60px;
 }
 
 .container {
@@ -31,6 +30,7 @@ section {
   display: flex;
   align-items: flex-end;
   flex-direction: column;
+  padding: 30px;
 }
 
 h2 {
@@ -42,7 +42,7 @@ h2 {
   align-items: end;
   flex-direction: column;
   height: 500px;
-  width: 400px;
+  width: 600px;
 }
 
 .text p {
@@ -71,3 +71,117 @@ input:valid {
   margin-top: 20px;
   border-radius: 20px;
 }
+
+
+
+.info {
+  width: 350px;
+  height: 350px;
+  overflow-y: auto;
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.info div {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.info a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.info a:hover {
+  text-decoration: underline;
+}
+
+
+/* Scrollbar styles */
+.info::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+/* Track */
+.info::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Color of the track */
+}
+
+/* Handle */
+.info::-webkit-scrollbar-thumb {
+  background: #888; /* Color of the scrollbar handle */
+}
+
+/* Handle on hover */
+.info::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Color of the scrollbar handle on hover */
+}
+
+
+
+
+
+
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  .container {
+      flex-direction: column;
+      margin-top: 0;
+  }
+
+  #map {
+      width: 90% !important;
+      margin: 20px 20px;
+      height: 250px; /* Adjust height as needed */
+  }
+
+
+  .text{
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+}
+
+
+
+
+@media screen and (max-width: 1000px) {
+  .text {
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    height: 500px;
+    width: 300px;
+  }
+
+  #map {
+    height: 500px;
+    width: 600px;
+  }
+
+
+  .text input {
+    width: 300px;
+  }
+  
+
+  .text button {
+    width: 300px;
+  }
+
+  .info{
+  width: 300px;
+  
+  }
+
+  .text {
+    margin-left: 15px;
+  }
+
+}
+
+

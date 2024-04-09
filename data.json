@@ -6,7 +6,7 @@
                 "name": "ali",
                 "coords": [33.3152, 44.3661],
                 "title": "Baghdad",
-                "address": "<b>Iraq</b><br><br>Baghdad",
+                "address": "Baghdad",
                 "website": "https://google.com",
                 "phone": "+97773678261"
             },
@@ -14,7 +14,55 @@
                 "name": "nadin",
                 "coords": [33.3044021, 44.3644836],
                 "title": "Ali jassim Place",
-                "address": "<b>Iraq</b><br>Baghdad",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "ali",
+                "coords": [33.3152, 44.3661],
+                "title": "Baghdad",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "nadin",
+                "coords": [33.3044021, 44.3644836],
+                "title": "Ali jassim Place",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "ali",
+                "coords": [33.3152, 44.3661],
+                "title": "Baghdad",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "nadin",
+                "coords": [33.3044021, 44.3644836],
+                "title": "Ali jassim Place",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "ali",
+                "coords": [33.3152, 44.3661],
+                "title": "Baghdad",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "nadin",
+                "coords": [33.3044021, 44.3644836],
+                "title": "Ali jassim Place",
+                "address": "Baghdad",
                 "website": "https://google.com",
                 "phone": "+97773678261"
             }
@@ -27,7 +75,7 @@
                 "name": "ali",
                 "coords": [33.4233, 43.3012],
                 "title": "Baghdad",
-                "address": "<b>Iraq</b><br><br>Baghdad",
+                "address": "Baghdad",
                 "website": "https://google.com",
                 "phone": "+97773678261"
             },
@@ -35,7 +83,39 @@
                 "name": "nadin",
                 "coords": [33.4259859, 43.2999218],
                 "title": "Ali jassim Place",
-                "address": "<b>Iraq</b><br>Baghdad",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "ali",
+                "coords": [33.4233, 43.3012],
+                "title": "Baghdad",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "nadin",
+                "coords": [33.4259859, 43.2999218],
+                "title": "Ali jassim Place",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "ali",
+                "coords": [33.4233, 43.3012],
+                "title": "Baghdad",
+                "address": "Baghdad",
+                "website": "https://google.com",
+                "phone": "+97773678261"
+            },
+            {
+                "name": "nadin",
+                "coords": [33.4259859, 43.2999218],
+                "title": "Ali jassim Place",
+                "address": "Baghdad",
                 "website": "https://google.com",
                 "phone": "+97773678261"
             }
